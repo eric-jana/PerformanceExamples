@@ -1,5 +1,7 @@
 /*
-    Make this faster
+    Say we want to add the name of the contact with account activities
+    (like we record airtime gifting events). How can we reorganize this
+    code so that the account activity comes up faster?
 */
 public class AccountActivity extends BaseMCentActionBarActivity {
 
